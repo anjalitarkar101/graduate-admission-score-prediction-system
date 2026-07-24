@@ -168,4 +168,4 @@ temp/
 *.bak
 *.backup
 *.orig
-*.rej
+*.rej.idea/
