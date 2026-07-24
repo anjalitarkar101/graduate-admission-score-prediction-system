@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d111d93c-a65a-4859-931a-fe3bae5b215a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/train_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Graduate Admission Score Prediction System" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000264677552757" />
+      <entry key="S2" value="1.152607074588184" />
+      <entry key="S5" value="1.906509946692703" />
+      <entry key="S10" value="2.6476687695271153" />
+      <entry key="S30" value="3.456338650588678" />
+      <entry key="S60" value="3.7145291347552156" />
+      <entry key="M2" value="3.8536803671364424" />
+      <entry key="M5" value="3.942889359716526" />
+      <entry key="M10" value="4.214393352997109" />
+      <entry key="M15" value="5.23011191892385" />
+      <entry key="M30" value="11.107004765427186" />
+      <entry key="H1" value="23.418856277155818" />
+      <entry key="H2" value="39.2189841703806" />
+      <entry key="H4" value="53.244422738541466" />
+      <entry key="D1" value="70.64788220713254" />
+      <entry key="W1" value="74.35725956580937" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.23126731E-315" />
+      <entry key="S10" value="1.4333228762337918E-157" />
+      <entry key="S30" value="1.3254954767496036E-52" />
+      <entry key="S60" value="2.884859442971652E-26" />
+      <entry key="M2" value="4.745990869854104E-13" />
+      <entry key="M5" value="4.3045603874953764E-5" />
+      <entry key="M10" value="0.019886498591896416" />
+      <entry key="M15" value="0.15554285691827976" />
+      <entry key="M30" value="1.2329111605430227" />
+      <entry key="H1" value="3.4983660104256353" />
+      <entry key="H2" value="5.90852611216128" />
+      <entry key="H4" value="7.6845586984216165" />
+      <entry key="D1" value="9.570157496050907" />
+      <entry key="W1" value="9.93742170955459" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9726549474122855" />
+      <entry key="MS500" value="0.9944939387503384" />
+      <entry key="S2" value="1.1384770930496844" />
+      <entry key="S5" value="1.868864879285702" />
+      <entry key="S10" value="2.611421277070552" />
+      <entry key="S30" value="3.4375935675679967" />
+      <entry key="S60" value="3.70406684041676" />
+      <entry key="M2" value="3.848153325917455" />
+      <entry key="M5" value="3.9406468361140092" />
+      <entry key="M10" value="4.23300614449692" />
+      <entry key="M15" value="5.384238659997363" />
+      <entry key="M30" value="12.33669258146487" />
+      <entry key="H1" value="26.91229671273445" />
+      <entry key="H2" value="45.12271520650247" />
+      <entry key="H4" value="60.925510939024875" />
+      <entry key="D1" value="80.21723525611355" />
+      <entry key="W1" value="84.29455941488946" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GjbHkprrv7RItGMZKVHHYNWLNJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anjalitarkar/PycharmProjects/Graduate Admission Prediction System /data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/saved_visualizations" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d111d93c-a65a-4859-931a-fe3bae5b215a" name="Changes" comment="" />
+      <created>1784487839553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784487839553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
