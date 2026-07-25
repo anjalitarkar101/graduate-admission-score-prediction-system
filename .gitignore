@@ -38,27 +38,7 @@ pythonenv*
 *.iml
 *.code-workspace
 
-# ----------------------------------------------------------
-# Data Files (CSV files are large - don't commit)
-# ----------------------------------------------------------
-data/
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite
 
-# ----------------------------------------------------------
-# Models (Trained models are large)
-# ----------------------------------------------------------
-models/
-*.h5
-*.hdf5
-*.pkl
-*.pickle
-*.keras
-*.pb
-*.joblib
 
 # ----------------------------------------------------------
 # Visualizations (Generated plots)

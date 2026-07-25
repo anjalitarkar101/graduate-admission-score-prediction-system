@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d111d93c-a65a-4859-931a-fe3bae5b215a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/setup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graduate Admission Score Prediction System/train_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Graduate Admission Score Prediction System" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
@@ -113,7 +101,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/anjalitarkar/PycharmProjects/Graduate Admission Prediction System /data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anjalitarkar/PycharmProjects/Graduate Admission Score Prediction System&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
