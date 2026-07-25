@@ -1,7 +1,7 @@
-# 🎓 Graduate Admission Score Prediction System
+# 🎓 Graduate Admission Score Predictor
 
 ## 📖 Overview
-A Graduate Admission Score Prediction System built with Streamlit and Artificial Neural Networks (ANN). The system predicts admission chances based on academic profile factors like GRE score, TOEFL score, CGPA, research experience, and more.
+A **Graduate Admission Score Predictor** built with Streamlit and Artificial Neural Networks (ANN). The system predicts admission chances based on academic profile factors like GRE score, TOEFL score, CGPA, research experience, and more.
 
 
 ---

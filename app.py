@@ -17,7 +17,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("🎓 Graduate Admission Score Prediction")
+st.title("🎓 Graduate Admission Score Predictor")
 st.markdown("Enter your profile details to predict your admission chance score!")
 
 
