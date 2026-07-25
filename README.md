@@ -28,7 +28,7 @@ A **Graduate Admission Score Predictor** built with Streamlit and Artificial Neu
 ## 📁 Project Structure
 
 ```
-graduate-admission-prediction-system/
+graduate-admission-score-predictor/
 ├── app.py                    # Main Streamlit application (UI)
 ├── predict.py                # Prediction functions
 ├── train_model.py            # Model training script
